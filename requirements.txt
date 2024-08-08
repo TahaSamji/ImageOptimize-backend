@@ -1,3 +1,4 @@
 fastapi==0.112.0
 uvicorn==0.30.5
 python-multipart==0.0.9
+resmushit==1.0.1
